@@ -1,5 +1,6 @@
-node_modules
-dist
-.history
-yar.error.log
-yar.lock
+/node_modules
+/dist
+/.history
+/yarn-error.log
+/yarn.lock
+
